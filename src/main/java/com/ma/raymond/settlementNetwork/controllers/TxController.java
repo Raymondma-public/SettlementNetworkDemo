@@ -1,8 +1,7 @@
-package com.ma.raymond.messageHub.controllers;
+package com.ma.raymond.settlementNetwork.controllers;
 
-import com.ma.raymond.messageHub.services.MQSender;
+import com.ma.raymond.settlementNetwork.services.MQSender;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

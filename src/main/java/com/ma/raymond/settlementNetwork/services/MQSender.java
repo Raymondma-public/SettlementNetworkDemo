@@ -1,4 +1,4 @@
-package com.ma.raymond.messageHub.services;
+package com.ma.raymond.settlementNetwork.services;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

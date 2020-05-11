@@ -1,4 +1,4 @@
-package com.ma.raymond.messageHub.configurations;
+package com.ma.raymond.settlementNetwork.configurations;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;

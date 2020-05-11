@@ -1,4 +1,4 @@
-package com.ma.raymond.messageHub.services;
+package com.ma.raymond.settlementNetwork.services;
 
 import org.springframework.stereotype.Service;
 
